@@ -24,7 +24,7 @@
 </head>
 <body>
 	<script type="text/javascript">
-		alert("<%=pname%>가 장바구니에 추가되었습니다!");
+		alert("<%=product%>가 장바구니에 추가되었습니다!");
 		history.go(-1);
 	</script>
 </body>
